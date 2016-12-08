@@ -17,11 +17,7 @@ function delteItem(state, index) {
 
 function renderState(state) {
   for (var i=0; i < state.items.length; i++) {
-      var list_item = 
-         '<li>
-             
-      list
-  }
+      var list_item = '';
 };
 
 $(document).ready(function (event) {
